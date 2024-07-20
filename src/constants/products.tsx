@@ -4,10 +4,8 @@ export const products = [
     title: "Top UK YouTubers 2024",
     description:
       "An end-to-end project that migrates data from Excel (via Kaggle) into a Power BI dashboard.",
-    thumbnail: "/images/sidefolio-aceternity.png",
+    thumbnail: "/images/top-UK-YouTubers.png",
     images: [
-      "/images/sidefolio-aceternity.png",
-      "/images/sidefolio-aceternity-2.png",
     ],
     stack: ["Excel", "SQL", "Power BI"],
     slug: "Top_UK_YouTubers_2024",
@@ -24,10 +22,9 @@ export const products = [
     title: "Sales Analysis",
     description:
       "Practicing Data Cleansing, Transformation in SQL, and Microsoft Power BI Analysis",
-    thumbnail: "/images/sidefolio-algochurn.png",
+    thumbnail: "/images/sales-analysis.jpeg",
     images: [
-      "/images/sidefolio-algochurn.png",
-      "/images/sidefolio-algochurn-2.png",
+      
     ],
     stack: ["SQL", "Power BI"],
     slug: "Sales_Analysis",
@@ -40,14 +37,12 @@ export const products = [
     ),
   },
   {
-    href: "https://gomoonbeam.com",
+    href: "https://public.tableau.com/app/profile/emmanuel.bett/viz/FinancialcomplaintsoverviewDashboard/FINANCIALCOMPLAINTSOVERVIEW",
     title: "Financial Complaints overview",
     description:
       "Interactive dashboard on Financial Consumer Complaints by using Tableau.",
-    thumbnail: "/images/sidefolio-moonbeam.png",
+    thumbnail: "/images/sql-and-power-bi.png",
     images: [
-      "/images/sidefolio-moonbeam.png",
-      "/images/sidefolio-moonbeam-2.png",
     ],
     stack: ["Tableau"],
     slug: "Financial_Complaints_overview",
@@ -64,10 +59,8 @@ export const products = [
     title: "Meat Production in Germany",
     description:
       "Exploring Shifting Trends in Poultry, Pork, and Beef from 2000-2022 Using Line Charts During #MakeOverMonday Week 10, 2023",
-    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    thumbnail: "/images/meat-production-in-germany.png",
     images: [
-      "/images/sidefolio-tailwindmasterkit.png",
-      "/images/sidefolio-tailwindmasterkit-2.png",
     ],
     stack: ["Tableau"],
     slug: "Meat_Production_in_Germany",
@@ -80,34 +73,12 @@ export const products = [
     ),
   },
   {
-    href: "https://public.tableau.com/app/profile/emmanuel.bett/viz/MeatProductioninGermany_16848535513830/MM2023W10",
-    title: "Exploring my MiFit Data",
-    description:
-      "Analyzing Xiaomi MiFit Sleep Data with CSV Files, Visualizations, and Linear Regressions for Insights on Sleep Patterns",
-    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
-    images: [
-      "/images/sidefolio-tailwindmasterkit.png",
-      "/images/sidefolio-tailwindmasterkit-2.png",
-    ],
-    stack: ["Tableau"],
-    slug: "Meat_Production_in_Germany",
-    content: (
-      <div>
-        <p>
-          I exported Xiaomi MiFit data, worked with csv data, visualized the data, and I ran two linear regressions. Click on the GitHub link to gain more insights into what the data says about my overall sleep. :0{" "}
-        </p>
-      </div>
-    ),
-  },
-  {
     href: "https://github.com/Emmanuelbett67/Exploring-my-MiFit-Data",
     title: "Exploring my MiFit Data",
     description:
       "Analyzing Xiaomi MiFit Sleep Data with CSV Files, Visualizations, and Linear Regressions for Insights on Sleep Patterns",
-    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    thumbnail: "/images/mifit-data.jpeg",
     images: [
-      "/images/sidefolio-tailwindmasterkit.png",
-      "/images/sidefolio-tailwindmasterkit-2.png",
     ],
     stack: ["Python", "numpy", "pandas", "matplotlib", "seaborn"],
     slug: "Exploring_my_MiFit_Data",
@@ -124,10 +95,8 @@ export const products = [
     title: "Ford Go Bike Data Exploration",
     description:
       "This project is divided into two major parts. In the first part, I conducted an exploratory data analysis on a dataset Ford GoBike System Data",
-    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    thumbnail: "/images/ford-go.jpeg",
     images: [
-      "/images/sidefolio-tailwindmasterkit.png",
-      "/images/sidefolio-tailwindmasterkit-2.png",
     ],
     stack: ["Python", "numpy", "pandas", "matplotlib", "seaborn"],
     slug: "Ford_Go_Bike_Data_Exploration",
