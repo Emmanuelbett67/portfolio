@@ -120,21 +120,22 @@ export const products = [
     ),
   },
   {
-    href: "https://github.com/Emmanuelbett67/Exploring-my-MiFit-Data",
+    href: "https://github.com/Emmanuelbett67/Ford-Gobike-Data-Exploration",
     title: "Ford Go Bike Data Exploration",
     description:
-      "Analyzing Xiaomi MiFit Sleep Data with CSV Files, Visualizations, and Linear Regressions for Insights on Sleep Patterns",
+      "This project is divided into two major parts. In the first part, I conducted an exploratory data analysis on a dataset Ford GoBike System Data",
     thumbnail: "/images/sidefolio-tailwindmasterkit.png",
     images: [
       "/images/sidefolio-tailwindmasterkit.png",
       "/images/sidefolio-tailwindmasterkit-2.png",
     ],
     stack: ["Python", "numpy", "pandas", "matplotlib", "seaborn"],
-    slug: "Exploring_my_MiFit_Data",
+    slug: "Ford_Go_Bike_Data_Exploration",
     content: (
       <div>
         <p>
-          I exported Xiaomi MiFit data, worked with csv data, visualized the data, and I ran two linear regressions. Click on the GitHub link to gain more insights into what the data says about my overall sleep. :0{" "}
+          I used Python data science and data visualization libraries to explore the dataset variables and understand the data structure, oddities, patterns, and relationships
+          In the second part, I took my main findings from my exploration and convey them to others through an explanatory analysis. To this end, I created a slide deck that leverages polished, explanatory visualizations to communicate my results{" "}
         </p>
       </div>
     ),
