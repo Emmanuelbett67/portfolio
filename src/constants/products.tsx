@@ -24,7 +24,6 @@ export const products = [
       "Practicing Data Cleansing, Transformation in SQL, and Microsoft Power BI Analysis",
     thumbnail: "/images/sales-analysis.jpeg",
     images: [
-      
     ],
     stack: ["SQL", "Power BI"],
     slug: "Sales_Analysis",
