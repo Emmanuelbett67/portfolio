@@ -1,133 +1,141 @@
 export const products = [
   {
-    href: "https://aceternity.com",
-    title: "Aceternity",
+    href: "https://emmanuelbett67.github.io/top_UK_YouTubers_2024/",
+    title: "Top UK YouTubers 2024",
     description:
-      "A design and development studio that focuses on building quality apps.",
+      "An end-to-end project that migrates data from Excel (via Kaggle) into a Power BI dashboard.",
     thumbnail: "/images/sidefolio-aceternity.png",
     images: [
       "/images/sidefolio-aceternity.png",
       "/images/sidefolio-aceternity-2.png",
     ],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "aceternity",
+    stack: ["Excel", "SQL", "Power BI"],
+    slug: "Top_UK_YouTubers_2024",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          An end-to-end project that migrates data from Excel (via Kaggle) into a Power BI dashboard. The data is cleaned in SQL Server (MSSQL) and then loaded to Power BI to create the dashboard. {" "}
         </p>
-        <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
       </div>
     ),
   },
   {
-    href: "https://algochurn.com",
-    title: "Algochurn",
+    href: "https://github.com/Emmanuelbett67/Sales-Analysis",
+    title: "Sales Analysis",
     description:
-      "Practice for technical interviews with hands on coding challenges.",
+      "Practicing Data Cleansing, Transformation in SQL, and Microsoft Power BI Analysis",
     thumbnail: "/images/sidefolio-algochurn.png",
     images: [
       "/images/sidefolio-algochurn.png",
       "/images/sidefolio-algochurn-2.png",
     ],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "algochurn",
+    stack: ["SQL", "Power BI"],
+    slug: "Sales_Analysis",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          The main goal for this project was to practice data cleansing and transformation in SQL and working with Microsoft Power BI{" "}
         </p>
-        <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
       </div>
     ),
   },
   {
     href: "https://gomoonbeam.com",
-    title: "Moonbeam",
+    title: "Financial Complaints overview",
     description:
-      "Never write from scratch again with Moonbeam, your AI first writing tool",
+      "Interactive dashboard on Financial Consumer Complaints by using Tableau.",
     thumbnail: "/images/sidefolio-moonbeam.png",
     images: [
       "/images/sidefolio-moonbeam.png",
       "/images/sidefolio-moonbeam-2.png",
     ],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "moonbeam",
+    stack: ["Tableau"],
+    slug: "Financial_Complaints_overview",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Interactive dashboard on Financial Consumer Complaints by using Tableau. The main aim of this project was to practice how to create various visualizations in Tableau and compile them into a dashboard{" "}
         </p>
-        <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
       </div>
     ),
   },
   {
-    href: "https://tailwindmasterkit.com",
-    title: "Tailwind Master Kit",
+    href: "https://public.tableau.com/app/profile/emmanuel.bett/viz/MeatProductioninGermany_16848535513830/MM2023W10",
+    title: "Meat Production in Germany",
     description:
-      "A beautiful and comprehensive Tailwind CSS components library for building modern websites and applications.",
+      "Exploring Shifting Trends in Poultry, Pork, and Beef from 2000-2022 Using Line Charts During #MakeOverMonday Week 10, 2023",
     thumbnail: "/images/sidefolio-tailwindmasterkit.png",
     images: [
       "/images/sidefolio-tailwindmasterkit.png",
       "/images/sidefolio-tailwindmasterkit-2.png",
     ],
-    stack: ["Nextjs", "Tailwindcss"],
-    slug: "tailwindmasterkit",
+    stack: ["Tableau"],
+    slug: "Meat_Production_in_Germany",
     content: (
       <div>
         <p>
-          Sit eiusmod ex mollit sit quis ad deserunt. Sint aliqua aliqua ullamco
-          dolore nulla amet tempor sunt est ipsum. Dolor laborum eiusmod
-          cupidatat consectetur velit ipsum. Deserunt nisi in culpa laboris
-          cupidatat elit velit aute mollit nisi. Officia ad exercitation laboris
-          non cupidatat duis esse velit ut culpa et.{" "}
+          Analyzing the shifting trends of poultry, pork, and beef from 2000-2022. The main goal of this project was to work with a line chart and explore the different ways of presenting it. This was completed during the #MakeOverMonday week 10 of 2023.{" "}
         </p>
+      </div>
+    ),
+  },
+  {
+    href: "https://public.tableau.com/app/profile/emmanuel.bett/viz/MeatProductioninGermany_16848535513830/MM2023W10",
+    title: "Exploring my MiFit Data",
+    description:
+      "Analyzing Xiaomi MiFit Sleep Data with CSV Files, Visualizations, and Linear Regressions for Insights on Sleep Patterns",
+    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    images: [
+      "/images/sidefolio-tailwindmasterkit.png",
+      "/images/sidefolio-tailwindmasterkit-2.png",
+    ],
+    stack: ["Tableau"],
+    slug: "Meat_Production_in_Germany",
+    content: (
+      <div>
         <p>
-          Exercitation pariatur enim occaecat adipisicing nostrud adipisicing
-          Lorem tempor ullamco exercitation quis et dolor sint. Adipisicing sunt
-          sit aute fugiat incididunt nostrud consequat proident fugiat id.
-          Officia aliquip laborum labore eu culpa dolor reprehenderit eu ex enim
-          reprehenderit. Cillum Lorem veniam eu magna exercitation.
-          Reprehenderit adipisicing minim et officia enim et veniam Lorem
-          excepteur velit adipisicing et Lorem magna.
-        </p>{" "}
+          I exported Xiaomi MiFit data, worked with csv data, visualized the data, and I ran two linear regressions. Click on the GitHub link to gain more insights into what the data says about my overall sleep. :0{" "}
+        </p>
+      </div>
+    ),
+  },
+  {
+    href: "https://github.com/Emmanuelbett67/Exploring-my-MiFit-Data",
+    title: "Exploring my MiFit Data",
+    description:
+      "Analyzing Xiaomi MiFit Sleep Data with CSV Files, Visualizations, and Linear Regressions for Insights on Sleep Patterns",
+    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    images: [
+      "/images/sidefolio-tailwindmasterkit.png",
+      "/images/sidefolio-tailwindmasterkit-2.png",
+    ],
+    stack: ["Python", "numpy", "pandas", "matplotlib", "seaborn"],
+    slug: "Exploring_my_MiFit_Data",
+    content: (
+      <div>
+        <p>
+          I exported Xiaomi MiFit data, worked with csv data, visualized the data, and I ran two linear regressions. Click on the GitHub link to gain more insights into what the data says about my overall sleep. :0{" "}
+        </p>
+      </div>
+    ),
+  },
+  {
+    href: "https://github.com/Emmanuelbett67/Exploring-my-MiFit-Data",
+    title: "Ford Go Bike Data Exploration",
+    description:
+      "Analyzing Xiaomi MiFit Sleep Data with CSV Files, Visualizations, and Linear Regressions for Insights on Sleep Patterns",
+    thumbnail: "/images/sidefolio-tailwindmasterkit.png",
+    images: [
+      "/images/sidefolio-tailwindmasterkit.png",
+      "/images/sidefolio-tailwindmasterkit-2.png",
+    ],
+    stack: ["Python", "numpy", "pandas", "matplotlib", "seaborn"],
+    slug: "Exploring_my_MiFit_Data",
+    content: (
+      <div>
+        <p>
+          I exported Xiaomi MiFit data, worked with csv data, visualized the data, and I ran two linear regressions. Click on the GitHub link to gain more insights into what the data says about my overall sleep. :0{" "}
+        </p>
       </div>
     ),
   },
