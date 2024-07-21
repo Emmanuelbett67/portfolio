@@ -13,7 +13,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Emmanuel - Junior Data Analyst",
   description:
-    "John Doe is a developer, writer and speaker. He is a digital nomad and travels around the world while working remotely.",
+    "I'm a Junior Data Analyst who loves turning raw data into useful insights.",
 };
 
 export default function RootLayout({
