@@ -84,6 +84,18 @@ export const TechStack = () => {
       className: "h-10 w-14",
     },
     {
+      title: "Tableau",
+      src: "/images/logos/tableau.webp",
+
+      className: "h-10 w-14",
+    },
+    {
+      title: "Power BI",
+      src: "/images/logos/power-bi.png",
+
+      className: "h-10 w-14",
+    },
+    {
       title: "Git",
       src: "/images/logos/git.png",
 

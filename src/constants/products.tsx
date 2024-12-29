@@ -36,6 +36,46 @@ export const products = [
     ),
   },
   {
+    href: "https://github.com/Emmanuelbett67/HR-employee-Attrition-Analysis",
+    title: "HR Employee Attrition Analysis",
+    description:
+      "Performed Data wrangling techniques and carried out Exploratory Data Analysis to gain insights into factors influencing employee attrition.",
+    thumbnail: "/images/hr-attrition.png",
+    images: [],
+    stack: ["Matplotlib", "Python", "Pandas", "Seaborn"],
+    slug: "HR_Employee_Attrition",
+    content: (
+      <div>
+        <p>
+          Objectives:
+        </p>
+        <ul>
+          <li>Perform Data wrangling techniques and carry out Exploratory Data Analysis to gain insights into factors influencing employee attrition.</li>
+          <li>Identify patterns, trends, and potential areas of improvement to better understand and manage employee attrition in the organization.</li>
+          <li>Identify what type of measures should the organization take to retain their employees.</li>
+        </ul>
+      </div>
+    ),
+  },
+  {
+    href: "https://public.tableau.com/app/profile/emmanuel.bett/viz/Week10Iceberg/NorthAtlanticIcebergSightings",
+    title: "North Atlantic Iceberg Sightings 2016-2021",
+    description:
+      "Back 2 Viz Basics 2024/Week 10 challenge",
+    thumbnail: "/images/North Atlantic Iceberg Sightings.png",
+    images: [
+    ],
+    stack: ["Tableau"],
+    slug: "North_Atlantic_Iceberg_Sightings_2016_-_2021",
+    content: (
+      <div>
+        <p>
+          Tableau Dashboard practice
+        </p>
+      </div>
+    ),
+  },
+  {
     href: "https://emmanuelbett67.github.io/top_UK_YouTubers_2024/",
     title: "Top UK YouTubers 2024",
     description:
