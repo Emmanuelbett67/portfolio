@@ -52,9 +52,8 @@ export const Contact = () => {
         (err) => {
           console.log("FAILED...", err);
           
-          // Show error message using React Toastify
           toast.error("Failed to send email. Please try again.", {
-            position: "bottom-center", // Use the string value for position
+            position: "bottom-center",
             autoClose: 3000,
           });
         }
