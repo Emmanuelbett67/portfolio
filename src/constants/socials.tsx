@@ -6,7 +6,7 @@ import {
 
 export const socials = [
   {
-    href: "https://twitter.com/mannupaaji",
+    href: "https://x.com/Betino_mannu",
     label: "Twitter",
     icon: IconBrandTwitter,
   },

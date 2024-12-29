@@ -1,5 +1,41 @@
 export const products = [
   {
+    href: "https://emmanuelbett67.github.io/PAYE-calculator/",
+    title: "PAYE Calculator",
+    description:
+      "Know your Pay As You Earn",
+    thumbnail: "/images/paye-calculator.png",
+    images: [
+    ],
+    stack: ["JavaScript", "Vue.Js"],
+    slug: "PAYE_Calculator",
+    content: (
+      <div>
+        <p>
+          PAYE Calculator is a web tool that helps Kenyan employees estimate their monthly net salary. By entering their gross income, users can see deductions for PAYE, NSSF, and NHIF, giving a clear picture of their take-home pay. Built with Vue.js and Vite, it&apos;s a quick and user-friendly solution for salary planning.
+        </p>
+      </div>
+    ),
+  },
+  {
+    href: "https://emmanuelbett67.github.io/Vue-Expense-Tracker/",
+    title: "Expense Tracker",
+    description:
+      "Keep track of income and expenses. Add, remove, and save items to local storage",
+    thumbnail: "/images/expense-tracker.png",
+    images: [
+    ],
+    stack: ["JavaScript", "Vue.Js"],
+    slug: "Vue_Expense_Tracker",
+    content: (
+      <div>
+        <p>
+          Display transaction items in DOM, show balance, expense and income totals, add new transaction and reflect in total, delete items from DOM, and then finally persist to local storage {" "}
+        </p>
+      </div>
+    ),
+  },
+  {
     href: "https://emmanuelbett67.github.io/top_UK_YouTubers_2024/",
     title: "Top UK YouTubers 2024",
     description:
