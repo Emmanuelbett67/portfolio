@@ -30,6 +30,12 @@ export const TechStack = () => {
       className: "h-10 w-14",
     },
     {
+      title: "React",
+      src: "/images/logos/react.png",
+
+      className: "h-10 w-14",
+    },
+    {
       title: "Tailwind CSS",
       src: "/images/logos/tailwind.png",
 

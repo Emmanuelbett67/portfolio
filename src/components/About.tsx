@@ -71,7 +71,7 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          I&apos;m Emmanuel, a Junior Software Engineer and Data enthusiast with a knack for problem-solving and creating impactful solutions.
+          I&apos;m Emmanuel, a Software Engineer and Data enthusiast with a knack for problem-solving and creating impactful solutions.
           Welcome to my corner of the digital world!
         </Paragraph>
         <Paragraph className=" mt-4">
