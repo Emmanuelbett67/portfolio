@@ -71,18 +71,18 @@ export default function About() {
 
       <div className="max-w-4xl">
         <Paragraph className=" mt-4">
-          I&apos;m Emmanuel, a Junior Data Analyst who loves turning raw data into useful insights.
+          I&apos;m Emmanuel, a Junior Software Engineer and Data enthusiast with a knack for problem-solving and creating impactful solutions.
           Welcome to my corner of the digital world!
         </Paragraph>
         <Paragraph className=" mt-4">
-          I&apos;ve always been fascinated by how data can tell stories and help make better decisions. I enjoy exploring datasets, finding trends, and uncovering patterns. I&apos;m good with Python, SQL, and data visualization tools like Tableau, which help me make sense of complex data.
+        My work blends software engineering and data analysis, where I turn ideas into functional applications while leveraging data to drive smarter decisions. I&apos;m skilled in Python, SQL, and data visualization tools like Tableau, which help me uncover trends and tell compelling stories from complex datasets.
         </Paragraph>
 
         <Paragraph className=" mt-4">
-          When I&apos;m not working with data, I&apos;m out exploring the world. I love playing football, hiking, and biking. I&apos;m also quite a car enthusiast. These adventures keep me energized and curious, helping me come back with fresh ideas and a clear mind. I also keep up with the latest tech trends and work on personal data projects for fun.
+        When I&apos;m not coding or analyzing data, you&apos;ll find me exploring the world whether it&apos;s playing football, hiking, or biking. These adventures fuel my creativity and keep me motivated to tackle challenges with fresh perspectives.
         </Paragraph>
         <Paragraph className=" mt-4">
-          On this website, I&apos;ll share my insights, experiences, and the stories I find in data. Whether you&apos;re into data, adventure, or just curious about what I do, there&apos;s something here for you. Join me on this journey of discovery, both in data and the great outdoors. Thanks for stopping by, and I can&apos;t wait to share this adventure with you.
+        Here, I&apos;ll share my journey as a software engineer and data enthusiast, along with insights and projects that excite me. Thanks for visiting, and I hope you enjoy exploring my work!
         </Paragraph>
       </div>
     </div>
