@@ -1,5 +1,6 @@
 "use client";
 import React, { useState } from "react";
+import emailjs from 'emailjs-com';
 
 const defaultFormState = {
   name: {
@@ -20,8 +21,26 @@ export const Contact = () => {
 
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    // Write your submit logic here
-    console.log(formData);
+    console.log('Form Data:', formData);
+    const templateParams = {
+      name: formData.name.value,
+      email: formData.email.value,
+      message: formData.message.value,
+    };
+    console.log(templateParams);
+    emailjs.send(
+      'service_karig24',
+      'template_ie24gp6',
+      templateParams,
+      'MZz8bXDGuw4MR7-3Q'
+    ).then(
+      (response) => {
+        console.log('SUCCESS!', response.status, response.text);
+      },
+      (err) => {
+        console.log('FAILED...', err);
+      }
+    );
   };
   return (
     <form className="form" onSubmit={handleSubmit}>
