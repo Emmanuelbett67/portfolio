@@ -80,7 +80,7 @@ export const products = [
     title: "Top UK YouTubers 2024",
     description:
       "An end-to-end project that migrates data from Excel (via Kaggle) into a Power BI dashboard.",
-    thumbnail: "/images/top-UK-YouTubers.png",
+    thumbnail: "/images/topuk.png",
     images: [
     ],
     stack: ["Excel", "SQL", "Power BI"],
