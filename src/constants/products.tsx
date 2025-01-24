@@ -1,5 +1,24 @@
 export const products = [
   {
+    href: "https://personal-assistant-rabican67.vercel.app/",
+    title: "Personal Assistant",
+    description:
+      "Tracking your habits, gym progress, and daily tasks",
+    thumbnail: "/images/personal-ass.png",
+    images: [
+    ],
+    stack: ["TypeScript", "Next.js"],
+    slug: "Personal_Assistant",
+    content: (
+      <div>
+        <p>
+          Personal Assistant is a tool to help you manage your habits, tasks, and gym workouts built with Typescript and Next.js, the project is still ongoing, for the backend I'm trying to implement a telegram bot to automate the tasks.
+        </p>
+        <p>For now, the data persists to local storage. </p>
+      </div>
+    ),
+  },
+  {
     href: "https://emmanuelbett67.github.io/PAYE-calculator/",
     title: "PAYE Calculator",
     description:
